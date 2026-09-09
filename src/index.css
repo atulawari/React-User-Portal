@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  background-color: #f4f6f9;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.form-control {
+  padding: 12px;
+}
+
+.navbar {
+  min-height: 70px;
+}
+
+.btn {
+  border-radius: 8px;
+}
